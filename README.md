@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Microsoft Azure Honeypot Project Walkthrough] (https://github.com/jmcorral4/Azure-honeypot-project)
-- [Microsoft Azure Honeypot Project Experience] (https://github.com/jmcorral4/Azure-Honeypot-Project-Experience/edit/main/README.md)
+- [Microsoft Azure Honeypot Project Experience] (https://github.com/jmcorral4/Azure-Honeypot-Project-Experience)
 
 
 <h2> Certifications</h2>
