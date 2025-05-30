@@ -8,6 +8,7 @@
 <h2> Python Projects </h2>
 
 - [About me, my first Python script] (https://github.com/jmcorral4/About-Me)
+- [Calculator Script & Experience] (https://github.com/jmcorral4/Calculator-Script-Python)
 
 <h2> Certifications</h2>
 
