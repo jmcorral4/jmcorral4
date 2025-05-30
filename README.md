@@ -7,7 +7,7 @@
 
 <h2> Python Projects </h2>
 
-- [About me Python project](https://imgur.com/a/pLJ3LOS)
+- [About me Python project]
 
 <h2> Certifications</h2>
 
