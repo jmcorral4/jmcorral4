@@ -7,7 +7,7 @@
 
 <h2> Python Projects </h2>
 
-- [About me, my first Python script](https://github.com/jmcorral4/About-Me)
+- [About me, my first Python script] (https://github.com/jmcorral4/About-Me)
 
 <h2> Certifications</h2>
 
