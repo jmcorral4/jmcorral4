@@ -9,7 +9,7 @@
 
 - [About me, my first Python script] (https://github.com/jmcorral4/About-Me)
 - [Calculator Script & Experience] (https://github.com/jmcorral4/Calculator-Script-Python)
-- [Philedelphia 76ers 2024-25 Data Scraper Visualizer] (https://github.com/jmcorral4/Philadelphia-76ers-2024-2025-Data-Scraper-Visualizer)
+- [Philadelphia 76ers 2024-25 Data Scraper Visualizer] (https://github.com/jmcorral4/Philadelphia-76ers-2024-2025-Data-Scraper-Visualizer)
 
 <h2> Certifications</h2>
 
