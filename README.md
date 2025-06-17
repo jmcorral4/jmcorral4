@@ -4,6 +4,7 @@
 
 - [Microsoft Azure Honeypot Project Walkthrough] (https://github.com/jmcorral4/Azure-honeypot-project)
 - [Microsoft Azure Honeypot Project Experience] (https://github.com/jmcorral4/Azure-Honeypot-Project-Experience)
+- [Active Directory Virtual Lab] (https://github.com/jmcorral4/Active-Directory-Basics-Lab)
 
 <h2> Python Projects </h2>
 
